@@ -1,0 +1,17 @@
+/*########################### This code is written by Norhan El-Deeb @2019 #########################*/
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(./images/1.jpg);
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Berkshire Swash', cursive;
+}
+
+#fact{
+    display: none;
+}
+
